@@ -16,6 +16,30 @@
     {
         "Entry"
         {
+        "MsmKey" = "8:_08585AFED275382B8FD0FACC9219929C"
+        "OwnerKey" = "8:_438F8E42F13CD4E81B8AC7FE2A35531E"
+        "MsmSig" = "8:_UNDEFINED"
+        }
+        "Entry"
+        {
+        "MsmKey" = "8:_08585AFED275382B8FD0FACC9219929C"
+        "OwnerKey" = "8:_0BBEACBB7D594F5BB523FAAC56B1F3DA"
+        "MsmSig" = "8:_UNDEFINED"
+        }
+        "Entry"
+        {
+        "MsmKey" = "8:_08585AFED275382B8FD0FACC9219929C"
+        "OwnerKey" = "8:_D1BA67EFE0C7E3A0E0BB6FD2AFF4A708"
+        "MsmSig" = "8:_UNDEFINED"
+        }
+        "Entry"
+        {
+        "MsmKey" = "8:_08585AFED275382B8FD0FACC9219929C"
+        "OwnerKey" = "8:_A23F1CBADC6A98373345176819C75C4E"
+        "MsmSig" = "8:_UNDEFINED"
+        }
+        "Entry"
+        {
         "MsmKey" = "8:_0BBEACBB7D594F5BB523FAAC56B1F3DA"
         "OwnerKey" = "8:_UNDEFINED"
         "MsmSig" = "8:_UNDEFINED"
@@ -102,24 +126,6 @@
         {
         "MsmKey" = "8:_141B65DA45D65407AA9BDA9841F5E2FC"
         "OwnerKey" = "8:_B1AC782430B4E97593A2EEEF1CAE8E86"
-        "MsmSig" = "8:_UNDEFINED"
-        }
-        "Entry"
-        {
-        "MsmKey" = "8:_20DD188E22F9CC79DD174F48CD712F7E"
-        "OwnerKey" = "8:_A23F1CBADC6A98373345176819C75C4E"
-        "MsmSig" = "8:_UNDEFINED"
-        }
-        "Entry"
-        {
-        "MsmKey" = "8:_20DD188E22F9CC79DD174F48CD712F7E"
-        "OwnerKey" = "8:_0BBEACBB7D594F5BB523FAAC56B1F3DA"
-        "MsmSig" = "8:_UNDEFINED"
-        }
-        "Entry"
-        {
-        "MsmKey" = "8:_20DD188E22F9CC79DD174F48CD712F7E"
-        "OwnerKey" = "8:_D1BA67EFE0C7E3A0E0BB6FD2AFF4A708"
         "MsmSig" = "8:_UNDEFINED"
         }
         "Entry"
@@ -324,24 +330,6 @@
         {
         "MsmKey" = "8:_2ED626941BE6C6EC7E3E292B7E57564B"
         "OwnerKey" = "8:_0BBEACBB7D594F5BB523FAAC56B1F3DA"
-        "MsmSig" = "8:_UNDEFINED"
-        }
-        "Entry"
-        {
-        "MsmKey" = "8:_304E50621805A1C2E41FC3DAD0ED4096"
-        "OwnerKey" = "8:_3BBAC4D6046CF83AC0128A8E1975D52F"
-        "MsmSig" = "8:_UNDEFINED"
-        }
-        "Entry"
-        {
-        "MsmKey" = "8:_304E50621805A1C2E41FC3DAD0ED4096"
-        "OwnerKey" = "8:_0BBEACBB7D594F5BB523FAAC56B1F3DA"
-        "MsmSig" = "8:_UNDEFINED"
-        }
-        "Entry"
-        {
-        "MsmKey" = "8:_304E50621805A1C2E41FC3DAD0ED4096"
-        "OwnerKey" = "8:_A23F1CBADC6A98373345176819C75C4E"
         "MsmSig" = "8:_UNDEFINED"
         }
         "Entry"
@@ -569,7 +557,7 @@
         "Entry"
         {
         "MsmKey" = "8:_541F5A941B3E4CCEF4EBEBB671F8D45C"
-        "OwnerKey" = "8:_20DD188E22F9CC79DD174F48CD712F7E"
+        "OwnerKey" = "8:_08585AFED275382B8FD0FACC9219929C"
         "MsmSig" = "8:_UNDEFINED"
         }
         "Entry"
@@ -588,6 +576,12 @@
         {
         "MsmKey" = "8:_61DD969CDA77DDB3C5F6E784E3914B70"
         "OwnerKey" = "8:_0BBEACBB7D594F5BB523FAAC56B1F3DA"
+        "MsmSig" = "8:_UNDEFINED"
+        }
+        "Entry"
+        {
+        "MsmKey" = "8:_61DD969CDA77DDB3C5F6E784E3914B70"
+        "OwnerKey" = "8:_438F8E42F13CD4E81B8AC7FE2A35531E"
         "MsmSig" = "8:_UNDEFINED"
         }
         "Entry"
@@ -1026,6 +1020,30 @@
         {
         "MsmKey" = "8:_BDA21FDB74615BFA369941F7C81725CF"
         "OwnerKey" = "8:_F285969B89DAE284B9E291BFB7FBBF22"
+        "MsmSig" = "8:_UNDEFINED"
+        }
+        "Entry"
+        {
+        "MsmKey" = "8:_C528925AF4316CD4F30FBA0788B5E503"
+        "OwnerKey" = "8:_438F8E42F13CD4E81B8AC7FE2A35531E"
+        "MsmSig" = "8:_UNDEFINED"
+        }
+        "Entry"
+        {
+        "MsmKey" = "8:_C528925AF4316CD4F30FBA0788B5E503"
+        "OwnerKey" = "8:_0BBEACBB7D594F5BB523FAAC56B1F3DA"
+        "MsmSig" = "8:_UNDEFINED"
+        }
+        "Entry"
+        {
+        "MsmKey" = "8:_C528925AF4316CD4F30FBA0788B5E503"
+        "OwnerKey" = "8:_3BBAC4D6046CF83AC0128A8E1975D52F"
+        "MsmSig" = "8:_UNDEFINED"
+        }
+        "Entry"
+        {
+        "MsmKey" = "8:_C528925AF4316CD4F30FBA0788B5E503"
+        "OwnerKey" = "8:_A23F1CBADC6A98373345176819C75C4E"
         "MsmSig" = "8:_UNDEFINED"
         }
         "Entry"
@@ -1481,18 +1499,6 @@
         "Entry"
         {
         "MsmKey" = "8:_UNDEFINED"
-        "OwnerKey" = "8:_304E50621805A1C2E41FC3DAD0ED4096"
-        "MsmSig" = "8:_UNDEFINED"
-        }
-        "Entry"
-        {
-        "MsmKey" = "8:_UNDEFINED"
-        "OwnerKey" = "8:_20DD188E22F9CC79DD174F48CD712F7E"
-        "MsmSig" = "8:_UNDEFINED"
-        }
-        "Entry"
-        {
-        "MsmKey" = "8:_UNDEFINED"
         "OwnerKey" = "8:_4CB30287BE9C20A031F10A80D39FB3C9"
         "MsmSig" = "8:_UNDEFINED"
         }
@@ -1500,6 +1506,18 @@
         {
         "MsmKey" = "8:_UNDEFINED"
         "OwnerKey" = "8:_2867A4276AC8460405B6868D513CFB6D"
+        "MsmSig" = "8:_UNDEFINED"
+        }
+        "Entry"
+        {
+        "MsmKey" = "8:_UNDEFINED"
+        "OwnerKey" = "8:_C528925AF4316CD4F30FBA0788B5E503"
+        "MsmSig" = "8:_UNDEFINED"
+        }
+        "Entry"
+        {
+        "MsmKey" = "8:_UNDEFINED"
+        "OwnerKey" = "8:_08585AFED275382B8FD0FACC9219929C"
         "MsmSig" = "8:_UNDEFINED"
         }
         "Entry"
@@ -1639,11 +1657,42 @@
         }
         "File"
         {
+            "{9F6F8455-1EF1-4B85-886A-4223BCC8E7F7}:_08585AFED275382B8FD0FACC9219929C"
+            {
+            "AssemblyRegister" = "3:1"
+            "AssemblyIsInGAC" = "11:FALSE"
+            "AssemblyAsmDisplayName" = "8:Microsoft.IdentityModel.Clients.ActiveDirectory, Version=3.19.8.16603, Culture=neutral, PublicKeyToken=31bf3856ad364e35, processorArchitecture=MSIL"
+                "ScatterAssemblies"
+                {
+                    "_08585AFED275382B8FD0FACC9219929C"
+                    {
+                    "Name" = "8:Microsoft.IdentityModel.Clients.ActiveDirectory.dll"
+                    "Attributes" = "3:512"
+                    }
+                }
+            "SourcePath" = "8:Microsoft.IdentityModel.Clients.ActiveDirectory.dll"
+            "TargetName" = "8:"
+            "Tag" = "8:"
+            "Folder" = "8:_86AEA7F7B7E242F1952AEFE6126F42F4"
+            "Condition" = "8:"
+            "Transitive" = "11:FALSE"
+            "Vital" = "11:TRUE"
+            "ReadOnly" = "11:FALSE"
+            "Hidden" = "11:FALSE"
+            "System" = "11:FALSE"
+            "Permanent" = "11:FALSE"
+            "SharedLegacy" = "11:FALSE"
+            "PackageAs" = "3:1"
+            "Register" = "3:1"
+            "Exclude" = "11:FALSE"
+            "IsDependency" = "11:TRUE"
+            "IsolateTo" = "8:"
+            }
             "{9F6F8455-1EF1-4B85-886A-4223BCC8E7F7}:_141B65DA45D65407AA9BDA9841F5E2FC"
             {
             "AssemblyRegister" = "3:1"
             "AssemblyIsInGAC" = "11:FALSE"
-            "AssemblyAsmDisplayName" = "8:JosephM.Application, Version=2.0.7807.34087, Culture=neutral, PublicKeyToken=8ff8632955a46d8b, processorArchitecture=MSIL"
+            "AssemblyAsmDisplayName" = "8:JosephM.Application, Version=2.0.7822.17110, Culture=neutral, PublicKeyToken=8ff8632955a46d8b, processorArchitecture=MSIL"
                 "ScatterAssemblies"
                 {
                     "_141B65DA45D65407AA9BDA9841F5E2FC"
@@ -1670,42 +1719,11 @@
             "IsDependency" = "11:TRUE"
             "IsolateTo" = "8:"
             }
-            "{9F6F8455-1EF1-4B85-886A-4223BCC8E7F7}:_20DD188E22F9CC79DD174F48CD712F7E"
-            {
-            "AssemblyRegister" = "3:1"
-            "AssemblyIsInGAC" = "11:FALSE"
-            "AssemblyAsmDisplayName" = "8:Microsoft.IdentityModel.Clients.ActiveDirectory, Version=3.19.8.16603, Culture=neutral, PublicKeyToken=31bf3856ad364e35, processorArchitecture=MSIL"
-                "ScatterAssemblies"
-                {
-                    "_20DD188E22F9CC79DD174F48CD712F7E"
-                    {
-                    "Name" = "8:Microsoft.IdentityModel.Clients.ActiveDirectory.dll"
-                    "Attributes" = "3:512"
-                    }
-                }
-            "SourcePath" = "8:Microsoft.IdentityModel.Clients.ActiveDirectory.dll"
-            "TargetName" = "8:"
-            "Tag" = "8:"
-            "Folder" = "8:_86AEA7F7B7E242F1952AEFE6126F42F4"
-            "Condition" = "8:"
-            "Transitive" = "11:FALSE"
-            "Vital" = "11:TRUE"
-            "ReadOnly" = "11:FALSE"
-            "Hidden" = "11:FALSE"
-            "System" = "11:FALSE"
-            "Permanent" = "11:FALSE"
-            "SharedLegacy" = "11:FALSE"
-            "PackageAs" = "3:1"
-            "Register" = "3:1"
-            "Exclude" = "11:FALSE"
-            "IsDependency" = "11:TRUE"
-            "IsolateTo" = "8:"
-            }
             "{9F6F8455-1EF1-4B85-886A-4223BCC8E7F7}:_23080B36F295FB2D73FC9F5341DA1309"
             {
             "AssemblyRegister" = "3:1"
             "AssemblyIsInGAC" = "11:FALSE"
-            "AssemblyAsmDisplayName" = "8:JosephM.Application.ViewModel, Version=2.0.7807.38766, Culture=neutral, PublicKeyToken=8ff8632955a46d8b, processorArchitecture=MSIL"
+            "AssemblyAsmDisplayName" = "8:JosephM.Application.ViewModel, Version=2.0.7822.17111, Culture=neutral, PublicKeyToken=8ff8632955a46d8b, processorArchitecture=MSIL"
                 "ScatterAssemblies"
                 {
                     "_23080B36F295FB2D73FC9F5341DA1309"
@@ -1798,7 +1816,7 @@
             {
             "AssemblyRegister" = "3:1"
             "AssemblyIsInGAC" = "11:FALSE"
-            "AssemblyAsmDisplayName" = "8:JosephM.CodeGenerator, Version=2.0.7807.38769, Culture=neutral, PublicKeyToken=8ff8632955a46d8b, processorArchitecture=MSIL"
+            "AssemblyAsmDisplayName" = "8:JosephM.CodeGenerator, Version=2.0.7822.17346, Culture=neutral, PublicKeyToken=8ff8632955a46d8b, processorArchitecture=MSIL"
                 "ScatterAssemblies"
                 {
                     "_29E6EF67D76F4DEE5FCD8BD65A20119E"
@@ -1907,37 +1925,6 @@
             "IsDependency" = "11:TRUE"
             "IsolateTo" = "8:"
             }
-            "{9F6F8455-1EF1-4B85-886A-4223BCC8E7F7}:_304E50621805A1C2E41FC3DAD0ED4096"
-            {
-            "AssemblyRegister" = "3:1"
-            "AssemblyIsInGAC" = "11:FALSE"
-            "AssemblyAsmDisplayName" = "8:Newtonsoft.Json, Version=10.0.0.0, Culture=neutral, PublicKeyToken=30ad4fe6b2a6aeed, processorArchitecture=MSIL"
-                "ScatterAssemblies"
-                {
-                    "_304E50621805A1C2E41FC3DAD0ED4096"
-                    {
-                    "Name" = "8:Newtonsoft.Json.dll"
-                    "Attributes" = "3:512"
-                    }
-                }
-            "SourcePath" = "8:Newtonsoft.Json.dll"
-            "TargetName" = "8:"
-            "Tag" = "8:"
-            "Folder" = "8:_86AEA7F7B7E242F1952AEFE6126F42F4"
-            "Condition" = "8:"
-            "Transitive" = "11:FALSE"
-            "Vital" = "11:TRUE"
-            "ReadOnly" = "11:FALSE"
-            "Hidden" = "11:FALSE"
-            "System" = "11:FALSE"
-            "Permanent" = "11:FALSE"
-            "SharedLegacy" = "11:FALSE"
-            "PackageAs" = "3:1"
-            "Register" = "3:1"
-            "Exclude" = "11:FALSE"
-            "IsDependency" = "11:TRUE"
-            "IsolateTo" = "8:"
-            }
             "{9F6F8455-1EF1-4B85-886A-4223BCC8E7F7}:_310EF712B5BA9F6562C0C199F56AB980"
             {
             "AssemblyRegister" = "3:1"
@@ -1973,7 +1960,7 @@
             {
             "AssemblyRegister" = "3:1"
             "AssemblyIsInGAC" = "11:FALSE"
-            "AssemblyAsmDisplayName" = "8:JosephM.RecordCounts, Version=2.0.7807.38769, Culture=neutral, PublicKeyToken=8ff8632955a46d8b, processorArchitecture=MSIL"
+            "AssemblyAsmDisplayName" = "8:JosephM.RecordCounts, Version=2.0.7822.17345, Culture=neutral, PublicKeyToken=8ff8632955a46d8b, processorArchitecture=MSIL"
                 "ScatterAssemblies"
                 {
                     "_311F6A91A420FF68209F05267FEB4FA2"
@@ -2004,7 +1991,7 @@
             {
             "AssemblyRegister" = "3:1"
             "AssemblyIsInGAC" = "11:FALSE"
-            "AssemblyAsmDisplayName" = "8:JosephM.Xrm.Autonumber, Version=1.0.7807.38769, Culture=neutral, PublicKeyToken=8ff8632955a46d8b, processorArchitecture=MSIL"
+            "AssemblyAsmDisplayName" = "8:JosephM.Xrm.Autonumber, Version=1.0.7822.17345, Culture=neutral, PublicKeyToken=8ff8632955a46d8b, processorArchitecture=MSIL"
                 "ScatterAssemblies"
                 {
                     "_3A836380FB523D2E7403C203FA9D994D"
@@ -2128,7 +2115,7 @@
             {
             "AssemblyRegister" = "3:1"
             "AssemblyIsInGAC" = "11:FALSE"
-            "AssemblyAsmDisplayName" = "8:JosephM.Xrm, Version=2.0.7807.34088, Culture=neutral, PublicKeyToken=8ff8632955a46d8b, processorArchitecture=MSIL"
+            "AssemblyAsmDisplayName" = "8:JosephM.Xrm, Version=2.0.7822.17344, Culture=neutral, PublicKeyToken=8ff8632955a46d8b, processorArchitecture=MSIL"
                 "ScatterAssemblies"
                 {
                     "_438F8E42F13CD4E81B8AC7FE2A35531E"
@@ -2221,7 +2208,7 @@
             {
             "AssemblyRegister" = "3:1"
             "AssemblyIsInGAC" = "11:FALSE"
-            "AssemblyAsmDisplayName" = "8:JosephM.Record.Sql, Version=2.0.7807.37995, Culture=neutral, PublicKeyToken=8ff8632955a46d8b, processorArchitecture=MSIL"
+            "AssemblyAsmDisplayName" = "8:JosephM.Record.Sql, Version=2.0.7822.17111, Culture=neutral, PublicKeyToken=8ff8632955a46d8b, processorArchitecture=MSIL"
                 "ScatterAssemblies"
                 {
                     "_5004516A3A42EDD0C2A1915CF2C4608C"
@@ -2376,7 +2363,7 @@
             {
             "AssemblyRegister" = "3:1"
             "AssemblyIsInGAC" = "11:FALSE"
-            "AssemblyAsmDisplayName" = "8:JosephM.Spreadsheet, Version=2.0.7807.34088, Culture=neutral, PublicKeyToken=8ff8632955a46d8b, processorArchitecture=MSIL"
+            "AssemblyAsmDisplayName" = "8:JosephM.Spreadsheet, Version=2.0.7822.17110, Culture=neutral, PublicKeyToken=8ff8632955a46d8b, processorArchitecture=MSIL"
                 "ScatterAssemblies"
                 {
                     "_65AF45E1E29E140851380426F51F73B1"
@@ -2407,7 +2394,7 @@
             {
             "AssemblyRegister" = "3:1"
             "AssemblyIsInGAC" = "11:FALSE"
-            "AssemblyAsmDisplayName" = "8:JosephM.ObjectMapping, Version=2.0.7807.34087, Culture=neutral, PublicKeyToken=8ff8632955a46d8b, processorArchitecture=MSIL"
+            "AssemblyAsmDisplayName" = "8:JosephM.ObjectMapping, Version=2.0.7822.17110, Culture=neutral, PublicKeyToken=8ff8632955a46d8b, processorArchitecture=MSIL"
                 "ScatterAssemblies"
                 {
                     "_68E4A921036AA39B9B48CE7CB21DB385"
@@ -2438,7 +2425,7 @@
             {
             "AssemblyRegister" = "3:1"
             "AssemblyIsInGAC" = "11:FALSE"
-            "AssemblyAsmDisplayName" = "8:JosephM.Deployment, Version=2.0.7807.38769, Culture=neutral, PublicKeyToken=8ff8632955a46d8b, processorArchitecture=MSIL"
+            "AssemblyAsmDisplayName" = "8:JosephM.Deployment, Version=2.0.7822.17345, Culture=neutral, PublicKeyToken=8ff8632955a46d8b, processorArchitecture=MSIL"
                 "ScatterAssemblies"
                 {
                     "_6B981CD1AF9F32F7031DEFCB083C5EBD"
@@ -2469,7 +2456,7 @@
             {
             "AssemblyRegister" = "3:1"
             "AssemblyIsInGAC" = "11:FALSE"
-            "AssemblyAsmDisplayName" = "8:JosephM.Application.Desktop, Version=2.0.7807.38768, Culture=neutral, PublicKeyToken=8ff8632955a46d8b, processorArchitecture=MSIL"
+            "AssemblyAsmDisplayName" = "8:JosephM.Application.Desktop, Version=2.0.7822.17113, Culture=neutral, PublicKeyToken=8ff8632955a46d8b, processorArchitecture=MSIL"
                 "ScatterAssemblies"
                 {
                     "_7A64A761B5639327D246C68F16BC2A27"
@@ -2500,7 +2487,7 @@
             {
             "AssemblyRegister" = "3:1"
             "AssemblyIsInGAC" = "11:FALSE"
-            "AssemblyAsmDisplayName" = "8:JosephM.Xrm.RecordExtract, Version=2.0.7807.38769, Culture=neutral, PublicKeyToken=8ff8632955a46d8b, processorArchitecture=MSIL"
+            "AssemblyAsmDisplayName" = "8:JosephM.Xrm.RecordExtract, Version=2.0.7822.17345, Culture=neutral, PublicKeyToken=8ff8632955a46d8b, processorArchitecture=MSIL"
                 "ScatterAssemblies"
                 {
                     "_7AB759FF4E288CC2073B1548FFF4271C"
@@ -2531,7 +2518,7 @@
             {
             "AssemblyRegister" = "3:1"
             "AssemblyIsInGAC" = "11:FALSE"
-            "AssemblyAsmDisplayName" = "8:JosephM.Application.Desktop.Console, Version=2.0.7807.38768, Culture=neutral, PublicKeyToken=8ff8632955a46d8b, processorArchitecture=MSIL"
+            "AssemblyAsmDisplayName" = "8:JosephM.Application.Desktop.Console, Version=2.0.7822.17345, Culture=neutral, PublicKeyToken=8ff8632955a46d8b, processorArchitecture=MSIL"
                 "ScatterAssemblies"
                 {
                     "_7D890D359121EB7A1076BD8F53EA5FF9"
@@ -2624,7 +2611,7 @@
             {
             "AssemblyRegister" = "3:1"
             "AssemblyIsInGAC" = "11:FALSE"
-            "AssemblyAsmDisplayName" = "8:JosephM.Record, Version=2.0.7807.37994, Culture=neutral, PublicKeyToken=8ff8632955a46d8b, processorArchitecture=MSIL"
+            "AssemblyAsmDisplayName" = "8:JosephM.Record, Version=2.0.7822.17110, Culture=neutral, PublicKeyToken=8ff8632955a46d8b, processorArchitecture=MSIL"
                 "ScatterAssemblies"
                 {
                     "_9E866EA89C2D97807303574CCAF55E31"
@@ -2686,7 +2673,7 @@
             {
             "AssemblyRegister" = "3:1"
             "AssemblyIsInGAC" = "11:FALSE"
-            "AssemblyAsmDisplayName" = "8:JosephM.CustomisationExporter, Version=2.0.7807.38768, Culture=neutral, PublicKeyToken=8ff8632955a46d8b, processorArchitecture=MSIL"
+            "AssemblyAsmDisplayName" = "8:JosephM.CustomisationExporter, Version=2.0.7822.17345, Culture=neutral, PublicKeyToken=8ff8632955a46d8b, processorArchitecture=MSIL"
                 "ScatterAssemblies"
                 {
                     "_A410690A9F5340F589E26FF1F01BA1FB"
@@ -2779,7 +2766,7 @@
             {
             "AssemblyRegister" = "3:1"
             "AssemblyIsInGAC" = "11:FALSE"
-            "AssemblyAsmDisplayName" = "8:JosephM.Wpf, Version=2.0.7807.38768, Culture=neutral, PublicKeyToken=8ff8632955a46d8b, processorArchitecture=MSIL"
+            "AssemblyAsmDisplayName" = "8:JosephM.Wpf, Version=2.0.7822.17113, Culture=neutral, PublicKeyToken=8ff8632955a46d8b, processorArchitecture=MSIL"
                 "ScatterAssemblies"
                 {
                     "_B1AC782430B4E97593A2EEEF1CAE8E86"
@@ -2810,7 +2797,7 @@
             {
             "AssemblyRegister" = "3:1"
             "AssemblyIsInGAC" = "11:FALSE"
-            "AssemblyAsmDisplayName" = "8:JosephM.Record.Xrm, Version=2.0.7807.37995, Culture=neutral, PublicKeyToken=8ff8632955a46d8b, processorArchitecture=MSIL"
+            "AssemblyAsmDisplayName" = "8:JosephM.Record.Xrm, Version=2.0.7822.17344, Culture=neutral, PublicKeyToken=8ff8632955a46d8b, processorArchitecture=MSIL"
                 "ScatterAssemblies"
                 {
                     "_BDA21FDB74615BFA369941F7C81725CF"
@@ -2820,6 +2807,37 @@
                     }
                 }
             "SourcePath" = "8:JosephM.Record.Xrm.dll"
+            "TargetName" = "8:"
+            "Tag" = "8:"
+            "Folder" = "8:_86AEA7F7B7E242F1952AEFE6126F42F4"
+            "Condition" = "8:"
+            "Transitive" = "11:FALSE"
+            "Vital" = "11:TRUE"
+            "ReadOnly" = "11:FALSE"
+            "Hidden" = "11:FALSE"
+            "System" = "11:FALSE"
+            "Permanent" = "11:FALSE"
+            "SharedLegacy" = "11:FALSE"
+            "PackageAs" = "3:1"
+            "Register" = "3:1"
+            "Exclude" = "11:FALSE"
+            "IsDependency" = "11:TRUE"
+            "IsolateTo" = "8:"
+            }
+            "{9F6F8455-1EF1-4B85-886A-4223BCC8E7F7}:_C528925AF4316CD4F30FBA0788B5E503"
+            {
+            "AssemblyRegister" = "3:1"
+            "AssemblyIsInGAC" = "11:FALSE"
+            "AssemblyAsmDisplayName" = "8:Newtonsoft.Json, Version=10.0.0.0, Culture=neutral, PublicKeyToken=30ad4fe6b2a6aeed, processorArchitecture=MSIL"
+                "ScatterAssemblies"
+                {
+                    "_C528925AF4316CD4F30FBA0788B5E503"
+                    {
+                    "Name" = "8:Newtonsoft.Json.dll"
+                    "Attributes" = "3:512"
+                    }
+                }
+            "SourcePath" = "8:Newtonsoft.Json.dll"
             "TargetName" = "8:"
             "Tag" = "8:"
             "Folder" = "8:_86AEA7F7B7E242F1952AEFE6126F42F4"
@@ -2903,7 +2921,7 @@
             {
             "AssemblyRegister" = "3:1"
             "AssemblyIsInGAC" = "11:FALSE"
-            "AssemblyAsmDisplayName" = "8:JosephM.Core, Version=2.0.7807.34087, Culture=neutral, PublicKeyToken=8ff8632955a46d8b, processorArchitecture=MSIL"
+            "AssemblyAsmDisplayName" = "8:JosephM.Core, Version=2.0.7822.17109, Culture=neutral, PublicKeyToken=8ff8632955a46d8b, processorArchitecture=MSIL"
                 "ScatterAssemblies"
                 {
                     "_D59166B1AD501D65E74BD23759E490B6"
@@ -2965,7 +2983,7 @@
             {
             "AssemblyRegister" = "3:1"
             "AssemblyIsInGAC" = "11:FALSE"
-            "AssemblyAsmDisplayName" = "8:JosephM.CustomisationImporter, Version=2.0.7807.38769, Culture=neutral, PublicKeyToken=8ff8632955a46d8b, processorArchitecture=MSIL"
+            "AssemblyAsmDisplayName" = "8:JosephM.CustomisationImporter, Version=2.0.7822.17345, Culture=neutral, PublicKeyToken=8ff8632955a46d8b, processorArchitecture=MSIL"
                 "ScatterAssemblies"
                 {
                     "_E29E6CD8753570BB99BD9B8C40E0972C"
@@ -2996,7 +3014,7 @@
             {
             "AssemblyRegister" = "3:1"
             "AssemblyIsInGAC" = "11:FALSE"
-            "AssemblyAsmDisplayName" = "8:JosephM.XrmModule, Version=2.0.7807.38768, Culture=neutral, PublicKeyToken=8ff8632955a46d8b, processorArchitecture=MSIL"
+            "AssemblyAsmDisplayName" = "8:JosephM.XrmModule, Version=2.0.7822.17345, Culture=neutral, PublicKeyToken=8ff8632955a46d8b, processorArchitecture=MSIL"
                 "ScatterAssemblies"
                 {
                     "_F285969B89DAE284B9E291BFB7FBBF22"
@@ -3047,7 +3065,7 @@
             {
             "AssemblyRegister" = "3:1"
             "AssemblyIsInGAC" = "11:FALSE"
-            "AssemblyAsmDisplayName" = "8:JosephM.InstanceComparer, Version=2.0.7807.38769, Culture=neutral, PublicKeyToken=8ff8632955a46d8b, processorArchitecture=MSIL"
+            "AssemblyAsmDisplayName" = "8:JosephM.InstanceComparer, Version=2.0.7822.17346, Culture=neutral, PublicKeyToken=8ff8632955a46d8b, processorArchitecture=MSIL"
                 "ScatterAssemblies"
                 {
                     "_FD5590363EBF9A7AC33E462C64E7ADD5"
@@ -3130,15 +3148,15 @@
         {
         "Name" = "8:Microsoft Visual Studio"
         "ProductName" = "8:JosephM Dynamics 365 Dev App"
-        "ProductCode" = "8:{136EB86F-A29B-4D9D-97DE-5D2EB2157528}"
-        "PackageCode" = "8:{E6A35173-F48E-49D8-99B9-B0214D244338}"
+        "ProductCode" = "8:{C81B416F-2146-450C-AE87-44CA620836D6}"
+        "PackageCode" = "8:{8D76C9B7-C17E-47BB-9821-DEE6F03E3DAC}"
         "UpgradeCode" = "8:{5B07B391-967D-4C33-8FA6-5A94E167CA54}"
         "AspNetVersion" = "8:4.0.30319.0"
         "RestartWWWService" = "11:FALSE"
         "RemovePreviousVersions" = "11:TRUE"
         "DetectNewerInstalledVersion" = "11:TRUE"
         "InstallAllUsers" = "11:FALSE"
-        "ProductVersion" = "8:2.15.0"
+        "ProductVersion" = "8:2.15.1"
         "Manufacturer" = "8:Joseph McGregor"
         "ARPHELPTELEPHONE" = "8:"
         "ARPHELPLINK" = "8:https://github.com/josephmcmac/XRM-Developer-Tool/issues/new"
@@ -3774,7 +3792,7 @@
         {
             "{5259A561-127C-4D43-A0A1-72F10C7B3BF8}:_0BBEACBB7D594F5BB523FAAC56B1F3DA"
             {
-            "SourcePath" = "8:..\\JosephM.Dynamics365DevApp\\obj\\Debug\\JosephM.Dynamics365DevApp.exe"
+            "SourcePath" = "8:..\\JosephM.Dynamics365DevApp\\obj\\Release\\JosephM.Dynamics365DevApp.exe"
             "TargetName" = "8:"
             "Tag" = "8:"
             "Folder" = "8:_86AEA7F7B7E242F1952AEFE6126F42F4"

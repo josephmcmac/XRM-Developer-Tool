@@ -1,7 +1,7 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <PackageManifest Version="2.0.0" xmlns="http://schemas.microsoft.com/developer/vsx-schema/2011" xmlns:d="http://schemas.microsoft.com/developer/vsx-schema-design/2011">
     <Metadata>
-        <Identity Id="JosephM.Xrm.Vsix.Joseph McGregor-Macdonald.bae0f1de-3f3b-4668-8f43-847a84a69c80" Version="2.15.0.0" Language="en-US" Publisher="Joseph McGregor-Macdonald" />
+        <Identity Id="JosephM.Xrm.Vsix.Joseph McGregor-Macdonald.bae0f1de-3f3b-4668-8f43-847a84a69c80" Version="2.15.1.0" Language="en-US" Publisher="Joseph McGregor-Macdonald" />
         <DisplayName>JosephM.Xrm.Vsix</DisplayName>
         <Description xml:space="preserve">Visual Studio Extension For Microsoft Dynamics for CE and PowerApps Common Data Service</Description>
         <MoreInfo>https://josephmcmac.wordpress.com/2017/12/20/dynamics-365-visual-studio-extention-josephm-xrm-vsix/</MoreInfo>
