@@ -7,6 +7,7 @@ using JosephM.Record.Extentions;
 using JosephM.Record.Xrm.XrmRecord;
 using JosephM.Xrm.Schema;
 using JosephM.XrmModule.Crud.BulkWorkflow;
+using JosephM.XrmModule.Crud.ConvertDateTimezone;
 using System;
 using System.Collections.Generic;
 using System.IO;
@@ -71,6 +72,17 @@ namespace JosephM.XrmModule.Crud
                     new CustomGridFunction("BULKWORKFLOWALL", "All Results", (g) =>
                     {
                         TriggerBulkWorkflow(false);
+                    }, (g) => g.GridRecords != null && g.GridRecords.Any()),
+                }));
+            extraFunctions.Add(new CustomGridFunction("CONVERTDATETIMEZONE", "Convert Timezone", new[]
+                {
+                    new CustomGridFunction("CONVERTDATETIMEZONESELECTED", "Selected Only", (g) =>
+                    {
+                        TriggerConvertDateTimezone(true);
+                    }, (g) => g.SelectedRows.Any()),
+                    new CustomGridFunction("CONVERTDATETIMEZONEALL", "All Results", (g) =>
+                    {
+                        TriggerConvertDateTimezone(false);
                     }, (g) => g.GridRecords != null && g.GridRecords.Any()),
                 }));
             return extraFunctions;
@@ -148,6 +160,20 @@ namespace JosephM.XrmModule.Crud
                 var request = new BulkWorkflowRequest(new RecordType(QueryViewModel.RecordType, RecordService.GetDisplayName(QueryViewModel.RecordType)), recordsToUpdate);
                 request.AllowExecuteMultiples = RecordService.SupportsExecuteMultiple;
                 var bulkDialog = new BulkWorkflowDialog(XrmRecordService, (IDialogController)ApplicationController.ResolveType(typeof(IDialogController)), request, CompleteChildDialogAndReload);
+                LoadChildForm(bulkDialog);
+            });
+        }
+
+        private void TriggerConvertDateTimezone(bool selectedOnly)
+        {
+            ApplicationController.DoOnAsyncThread(() =>
+            {
+                var fieldsToInclude = new List<string>();
+
+                var recordsToUpdate = GetRecordsToProcess(selectedOnly);
+                var request = new ConvertDateTimezoneRequest(new RecordType(QueryViewModel.RecordType, RecordService.GetDisplayName(QueryViewModel.RecordType)), recordsToUpdate);
+                request.AllowExecuteMultiples = RecordService.SupportsExecuteMultiple;
+                var bulkDialog = new ConvertDateTimezoneDialog(XrmRecordService, (IDialogController)ApplicationController.ResolveType(typeof(IDialogController)), request, CompleteChildDialogAndReload);
                 LoadChildForm(bulkDialog);
             });
         }

@@ -419,7 +419,7 @@ namespace JosephM.Record.Xrm.XrmRecord
             return iRecords != null ? iRecords.Select(ToEntity).ToArray() : null;
         }
 
-        private Entity ToEntity(IRecord iRecord)
+        public Entity ToEntity(IRecord iRecord)
         {
             var entity = new Entity(iRecord.Type);
             if (!iRecord.Id.IsNullOrWhiteSpace())

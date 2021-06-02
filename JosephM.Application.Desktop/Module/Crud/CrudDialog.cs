@@ -166,7 +166,6 @@ namespace JosephM.Application.Desktop.Module.Crud
             QueryViewModel.DynamicGridViewModel.LoadingViewModel.LoadingMessage = "Loading Dialog";
             try
             {
-
                 var fieldsToGet = new List<string>();
                 fieldsToGet.Add(RecordService.GetPrimaryKey(QueryViewModel.RecordType));
                 var primaryField = RecordService.GetPrimaryField(QueryViewModel.RecordType);

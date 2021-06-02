@@ -139,6 +139,11 @@
     <Compile Include="AppConnection\ConnectToolingDialog.cs" />
     <Compile Include="AppConnection\XrmRecordServiceAppConnectionModule.cs" />
     <Compile Include="AppConnection\SavedConnectionAppConnectionModule.cs" />
+    <Compile Include="Crud\ConvertDateTimezone\ConvertDateTimezoneDialog.cs" />
+    <Compile Include="Crud\ConvertDateTimezone\ConvertDateTimezoneRequest.cs" />
+    <Compile Include="Crud\ConvertDateTimezone\ConvertDateTimezoneResponse.cs" />
+    <Compile Include="Crud\ConvertDateTimezone\ConvertDateTimezoneResponseItem.cs" />
+    <Compile Include="Crud\ConvertDateTimezone\ConvertDateTimezoneService.cs" />
     <Compile Include="Crud\BulkWorkflow\BulkWorkflowDialog.cs" />
     <Compile Include="Crud\BulkWorkflow\BulkWorkflowRequest.cs" />
     <Compile Include="Crud\BulkWorkflow\BulkWorkflowResponse.cs" />
